@@ -1,6 +1,6 @@
 #
 <div align="center">
-    <img src="https://github.com/santiagoramirez10/semillero_electron/blob/main/imagenes/banner%20electrica%20electron.png" style="max-width: 100%;" alt="Semillero Electrón">
+    <img src="https://github.com/Ingenieria-Electrica-UdeA/banco_imagenes/blob/main/banners/banner-semillero-electron.png" style="max-width: 100%;" alt="Semillero Electrón">
 </div>
 
 # Semillero Electrón

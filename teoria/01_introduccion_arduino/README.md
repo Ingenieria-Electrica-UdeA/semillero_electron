@@ -1,6 +1,6 @@
 #
 <div align="center">
-    <img src="https://github.com/Ingenieria-Electrica-UdeA/banco_imagenes/raw/main/banners/banner-introduccion-arduino.png" alt="Introducción Arduino" style="width: 100%;">
+    <img src="https://github.com/Ingenieria-Electrica-UdeA/banco_imagenes/blob/main/banners/banner-introduccion-arduino.jpg" alt="Banner introducción Arduino" style="width: 100%;">
 </div>
 
 # Contenido
