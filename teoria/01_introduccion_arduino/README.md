@@ -39,15 +39,19 @@ Las placas también vienen separadas en familias, en el <a href="https://www.ard
 
 - **Familia Arduino UNO**
 <img src="https://github.com/Ingenieria-Electrica-UdeA/banco_imagenes/raw/main/presentaciones/familia-arduino-uno.png" alt="Familia Arduino UNO" style="width: 100%;">
+*Imagen 1. Familia de placas Arduino UNO.*
 
 - **Familia Arduino Mega**
 <img src="https://github.com/Ingenieria-Electrica-UdeA/banco_imagenes/raw/main/presentaciones/familia-arduino-mega.png" alt="Familia Arduino Mega" style="width: 100%;">
+*Imagen 2. Familia de placas Arduino Mega.*
 
 - **Familia Arduino Nano**
 <img src="https://github.com/Ingenieria-Electrica-UdeA/banco_imagenes/raw/main/presentaciones/familia-arduino-nano.png" alt="Familia Arduino Nano" style="width: 100%;">
+*Imagen 3. Familia de placas Arduino Nano.*
 
 - **Familia Arduino MKR**
 <img src="https://github.com/Ingenieria-Electrica-UdeA/banco_imagenes/raw/main/presentaciones/familia-arduino-mkr.png" alt="Familia Arduino MKR" style="width: 100%;">
+*Imagen 4. Familia de placas Arduino MKR*
 
 ## Software
 La plataforma utiliza un entorno de desarrollo integrado (IDE) muy intuitivo. El Arduino IDE permite escribir código en un lenguaje basado en C++ y cargarlo directamente en la placa. También hay muchas bibliotecas disponibles que simplifican aún más el desarrollo de proyectos.
@@ -71,6 +75,8 @@ La plataforma utiliza un entorno de desarrollo integrado (IDE) muy intuitivo. El
 - **LED de Encendido:** Indica que la placa está recibiendo alimentación. También hay un LED conectado al pin 13 que puede ser utilizado para realizar pruebas rápidas.
 
 <img src="https://github.com/Ingenieria-Electrica-UdeA/banco_imagenes/raw/main/presentaciones/partes-arduino-uno.png" alt="Partes Arduino UNO" style="width: 100%;">
+
+*Imagen 5. Partes de la placa Arduino UNO*
 
 ## Componentes y sensores
 Además de las placas de Arduino, en los proyectos se utilizan diferentes componentes, los más comunes a la hora de comenzar en el mundo de la programación de Arduino son:
