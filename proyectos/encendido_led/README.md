@@ -16,19 +16,17 @@ Este proyecto consiste en la implementación de un circuito simple que permita e
 - 2 cables de conexión Macho-Macho.
 - 1 resistencia 330 Ω o 220 Ω.
 - 1 LED (cualquier color).
-- 
+ 
 ### Código
 
 ```cpp
 int LED=13;
 
-void setup()
-{
+void setup(){
   pinMode(LED, OUTPUT);
 }
 
-void loop()
-{
+void loop(){
   digitalWrite(LED, HIGH);
   delay(1000);
   digitalWrite(LED, LOW);
