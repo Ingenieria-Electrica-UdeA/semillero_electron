@@ -67,7 +67,13 @@ Los LEDs vienen en diversos colores y tamaños, y se utilizan en aplicaciones co
 *Imagen #. LEDs de diferentes colores.*
 
 ## Resistencias
+Son componentes electrónicos pasivos (consumen o disipan energía) que limitan el flujo de corriente en un circuito. Su principal función es proteger otros componentes, como LEDs o transistores, evitando que reciban demasiada corriente, lo que podría dañarlos.
+
+ Las resistencias se miden en ohmios (Ω), y su valor determina cuánto restringen la corriente. Están formadas por un material resistivo, generalmente carbono o metal, y su valor de resistencia está indicado por un código de colores en su cuerpo.
+
 ## Potenciómetros
+Son resistencias variables que permiten ajustar manualmente el nivel de resistencia en un circuito. Constan de tres terminales: dos terminales fijos conectados a los extremos de una resistencia fija y un tercer terminal, llamado cursor o wiper, que se desliza a lo largo de la resistencia fija, variando la resistencia entre el cursor y los otros dos terminales. Se utilizan en una amplia variedad de aplicaciones donde se necesita un control ajustable de resistencia.
+
 ## Pulsadores
 ## Sensores
 
