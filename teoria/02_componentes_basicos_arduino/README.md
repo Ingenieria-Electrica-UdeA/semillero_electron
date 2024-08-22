@@ -14,18 +14,36 @@
 ## Protoboard
 Una protoboard es una placa que permite realizar conexiones rápidas y sin soldadura, gracias a una serie de orificios conectados entre sí internamente. Se compone principalmente de tres partes: los buses de alimentación, el canal central y las pistas de conexión.
 
+<img src="https://github.com/Ingenieria-Electrica-UdeA/banco_imagenes/blob/main/presentaciones/partes-protoboard.jpg" alt="Partes de la protoboard" style="width: 100%;">
+
+*Imagen #. Partes de la protoboard.*
+
 ### Buses de alimentación
 Los buses de alimentación están ubicados en los bordes de la protoboard y se utilizan para distribuir el voltaje positivo y negativo a lo largo del circuito. Normalmente están marcados con líneas rojas (positivo) y azules o negras (negativo) para facilitar la identificación de las conexiones. Todos los orificios a lo largo de una misma fila están conectados horizontalmente.
+
+<img src="https://github.com/Ingenieria-Electrica-UdeA/banco_imagenes/blob/main/presentaciones/protoboard-buses.png" alt="Bus de alimentación positivo de la protoboard" style="width: 100%;">
+
+*Imagen #. Bus de alimentación positivo de la protoboard.*
 
 ### Canal central
 El canal central separa las dos secciones principales de la protoboard. Este espacio permite insertar circuitos integrados (ICs) u otros componentes de tal forma que sus pines queden conectados a las pistas de cada lado, evitando cortocircuitos entre ellos.
 
+<img src="https://github.com/Ingenieria-Electrica-UdeA/banco_imagenes/blob/main/presentaciones/protoboard-canal-central.png" alt="Uso del canal central de la protoboard" style="width: 100%;">
+
+*Imagen #. Uso del canal central de la protoboard.*
+
 ### Pistas
 Cada pista de conexión consta de cinco orificios que están eléctricamente conectados entre sí. Esto significa que al insertar un pin o un cable en cualquier orificio, este estará conectado automáticamente a los otros cuatro de la misma pista. Este diseño facilita la construcción de circuitos temporales y prototipos, ya que elimina la necesidad de soldadura.
 
+<img src="https://github.com/Ingenieria-Electrica-UdeA/banco_imagenes/blob/main/presentaciones/protoboard-pistas.png" alt="Ejemplo de pista de la protoboard" style="width: 100%;">
+
+*Imagen #. Ejemplo de pista de la protoboard.*
+
 ## Cables jumper
+
 ## LEDs
 ## Resistencias
 ## Potenciómetros
 ## Pulsadores
 ## Sensores
+
