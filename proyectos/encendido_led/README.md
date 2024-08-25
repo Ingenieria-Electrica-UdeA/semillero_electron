@@ -9,10 +9,11 @@
 
 ### Introducción
 Este proyecto consiste en la implementación de un circuito simple que permita el encendido y apagado de un LED mediante una placa Arduino. El objetivo es ver el funcionamiento de las salidas digitales y tiempo de espera entre un estado y otro.
+
 #### Materiales
 - 1 placa Arduino UNO o similar.
-- Cable de datos para Arduino.
-- 1 Protoboard.
+- 1 cable de datos para Arduino.
+- 1 protoboard.
 - 2 cables de conexión Macho-Macho.
 - 1 resistencia 330 Ω o 220 Ω.
 - 1 LED (cualquier color).

@@ -12,8 +12,8 @@ Este proyecto consiste en la implementación de un sistema de semáforo utilizan
 
 ### Materiales
 - 1 placa Arduino UNO o similar.
-- Cable de datos para Arduino.
-- 1 Protoboard.
+- 1 cable de datos para Arduino.
+- 1 protoboard.
 - 4 cables de conexión Macho-Macho.
 - 3 resistencias 330 Ω o 220 Ω.
 - 1 LED rojo.
@@ -34,26 +34,26 @@ void setup (){
  }
 
 void loop(){
-digitalWrite(LED_Rojo,LOW);
-digitalWrite(LED_Amarillo,LOW);
-digitalWrite(LED_Verde,LOW);
-delay(10);
-digitalWrite(LED_Verde,HIGH);
-delay(8000);
-i=0;
-while (i<5){
+  digitalWrite(LED_Rojo,LOW);
+  digitalWrite(LED_Amarillo,LOW);
   digitalWrite(LED_Verde,LOW);
-  delay(300);
+  delay(10);
   digitalWrite(LED_Verde,HIGH);
-  delay(300);
-  i=i+1;  
-  }
-digitalWrite(LED_Verde,LOW);
-digitalWrite(LED_Amarillo,HIGH);
-delay(2500);
-digitalWrite(LED_Amarillo,LOW);
-digitalWrite(LED_Rojo,HIGH);
-delay(7000); 
+  delay(8000);
+  i=0;
+  while (i<5){
+    digitalWrite(LED_Verde,LOW);
+    delay(300);
+    digitalWrite(LED_Verde,HIGH);
+    delay(300);
+    i=i+1;  
+    }
+  digitalWrite(LED_Verde,LOW);
+  digitalWrite(LED_Amarillo,HIGH);
+  delay(2500);
+  digitalWrite(LED_Amarillo,LOW);
+  digitalWrite(LED_Rojo,HIGH);
+  delay(7000); 
 }  
 ```
 
