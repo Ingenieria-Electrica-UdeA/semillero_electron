@@ -15,7 +15,7 @@ Este proyecto consiste en la implementación de un sistema de medición de tempe
 - 1 cable de datos para Arduino.
 - 1 protoboard.
 - 3 cables de conexión Macho-Macho.
-- 1 sensor de temperatura LM35
+- 1 sensor de temperatura LM35.
 
 ### Código
 ```cpp
